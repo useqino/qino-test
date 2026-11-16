@@ -1,8 +1,8 @@
 # qino-test-nextjs
 
-A test Next.js site built with [Qino](https://github.com/CharlyMartin/qino). It's used to try out the Qino cloud UI, which reads the generated `qino/_generated/config.json`.
+A test Next.js site built with [qino](https://github.com/CharlyMartin/qino). It's used to try out the qino cloud UI, which reads the generated `qino/_generated/config.json`.
 
-The app is a copy of `examples/next-js` from the Qino monorepo, using the published `@qino/cms` package.
+The app is a copy of `examples/next-js` from the qino monorepo, using the published `@qino/cms` package.
 
 ## Getting started
 
